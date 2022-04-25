@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="saved_view_mode_key">standard</string>
+    <string name="saved_view_mode_default_key">standard</string>
+</resources>
